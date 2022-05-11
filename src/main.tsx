@@ -2,8 +2,8 @@
 import './main.css';
 
 // Create render container
-import {createRoot} from 'react-dom/client'
-const root = createRoot(document.getElementById('root') as HTMLElement)
+import { createRoot } from 'react-dom/client';
+const root = createRoot(document.getElementById('root') as HTMLElement);
 
 // Render app
 import React from 'react';
