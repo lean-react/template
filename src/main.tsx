@@ -6,5 +6,10 @@ import { createRoot } from 'react-dom/client';
 const root = createRoot(document.getElementById('root') as HTMLElement);
 
 // Render app
+import { StrictMode } from 'react';
 import App from './App';
-root.render(<App />);
+root.render(
+  <StrictMode>
+    <App />
+  </StrictMode>
+);
