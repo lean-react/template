@@ -17,5 +17,5 @@
     "jsx": "react-jsx"
   },
   "include": ["src"],
-  "references": [{ "path": "./tsconfig.vite.json" }]
+  "references": [{ "path": "./tsconfig.node.json" }]
 }
