@@ -2,6 +2,10 @@
 
 > Opinionated lean React boilerplate with TypeScript
 
+## TODO
+
+- Comment tsconfig
+
 ## Editor Setup
 
 ### VS Code
